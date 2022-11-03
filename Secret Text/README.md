@@ -6,3 +6,6 @@ Password: **NBA**.
 
 ## Menu
 To choose what you want to do, enter a number (1-6).
+**OPTION** 1: Puts entered text in the file (stext.txt).
+**OPTION** 2: Gets text from the file.
+**OPTION** 3: Deletes text from the file.
