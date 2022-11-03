@@ -11,4 +11,4 @@ To choose what you want to do, enter a number (1-6).
 **OPTION** 3: Deletes text from the file.  
 **OPTION** 4: Mixes text in the file, so that in one row there would be 'k' characters.  
 **OPTION** 5: Mixes text in the file, so that in one row there would be from 1 to 'k' characters.  
-**OPTION** 6: Adds symbols to the file, so that there would be from 1 to 'k' symbols between data unit in the file.
+**OPTION** 6: Adds symbols to the file.
