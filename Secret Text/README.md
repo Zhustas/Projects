@@ -1,3 +1,3 @@
-## Secret Text
+# Secret Text
 
 # Menu
