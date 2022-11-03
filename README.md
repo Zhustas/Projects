@@ -1,2 +1,2 @@
 # Projects
-My programming projects
+My programming projects using C++ language.
