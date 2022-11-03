@@ -1,5 +1,5 @@
 # Secret Text
-"Secret Text" application hides your text, so that no one else could read it.
+"Secret Text" program hides your text, so that no one else could read it.
 
 ## Password
 Password: **NBA**.
