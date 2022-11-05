@@ -3,3 +3,6 @@ My program can do addition, multiplication with big numbers. Secondly, it can ra
 
 ## Programming language
 I created this program using C++.
+
+## Operations
+**Addition**
