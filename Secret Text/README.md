@@ -1,6 +1,9 @@
 # Secret Text
 "Secret Text" program hides your text, so that no one else could read it.
 
+## Programming language
+I made this program using C++.
+
 ## Password
 Password: **NBA**.
 
