@@ -1,7 +1,7 @@
 # Learning words
 Helps you to learn words.
 
-# Programming language
+## Programming language
 I made this program using C#.
 
 ## How to use
