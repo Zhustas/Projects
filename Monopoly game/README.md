@@ -1,5 +1,5 @@
 # Monopoly game
-The task was to create a monopoly game, with requirements.
+Monopoly game
 
 ## GUI
 For GUI, I used raylib library.  
