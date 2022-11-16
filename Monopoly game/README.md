@@ -1,4 +1,5 @@
 # Monopoly game
+Play a simple monopoly.
 
 ## GUI
 For GUI, I used raylib library.  
