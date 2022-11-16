@@ -1,5 +1,5 @@
 # Monopoly game
-Play a simple monopoly.
+Play a simple monopoly. **Download data folder, it contains textures needed for the game to run.**
 
 ## GUI
 For GUI, I used raylib library.  
