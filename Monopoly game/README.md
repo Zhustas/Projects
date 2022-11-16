@@ -33,5 +33,5 @@ You can change your name by hovering over the default name with your mouse.
 **Description**  
 If description of the field is too long, the "..." will appear at the end of the description. Hover for 1 second with your mouse on the description you want to expand, and full description will appear.
 
-**Someone won**
+**Someone won**  
 When someone wins the game, you can press **Q** to move between monopoly board and prize podium.
