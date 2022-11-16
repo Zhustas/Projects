@@ -1,8 +1,8 @@
 # Monopoly game
 Play a simple monopoly. **Download the game from here: https://www.mediafire.com/file/8d73tqpjkd3sry3/Monopoly_game.exe/file**
 
-## GUI
-For GUI, I used raylib library.  
+## UI
+For UI, I used raylib library.  
 Link to raylib's website: www.raylib.com
 
 ## Programming language
