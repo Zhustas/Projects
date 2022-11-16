@@ -1,2 +1,2 @@
 # Projects
-My programming projects using C++, C# languages.
+My programming projects using C++, C#, python languages.
